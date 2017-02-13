@@ -1,0 +1,1 @@
+Dans ce projet, nous allons ajouter des fichiers et leur apporter différentes modifications afin de tester le principe des commit avec Git et Github.
