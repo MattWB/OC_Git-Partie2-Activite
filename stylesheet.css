@@ -38,3 +38,10 @@ h1:hover {
     background-color: white;
     color: #453C41;
 }
+
+a {
+    display: block;
+    width: auto;
+    margin: 15px 0 0;
+    text-align: center;
+}
